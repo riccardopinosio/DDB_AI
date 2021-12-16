@@ -1,2 +1,2 @@
-# DDB_AI
-Materials for the course "AI for business" - master in digital driven business, HvA
+# AI for business - practicals
+Materials for the practical sessions of the course "AI for business". Master in digital driven business, HvA.
