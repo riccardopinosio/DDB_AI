@@ -1,1 +1,0 @@
-{"trial_id": "02", "hyperparameters": {"space": [{"class_name": "Int", "config": {"name": "neurons", "default": null, "conditions": [], "min_value": 1, "max_value": 100, "step": 1, "sampling": "linear"}}], "values": {"neurons": 13}}, "metrics": {"metrics": {}}, "score": null, "best_step": 0, "status": "RUNNING", "message": null}
