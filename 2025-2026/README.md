@@ -2,7 +2,7 @@
 
 Dear students,
 
-This repository contains the practicals for the AI for business course. Each practical is contained in a separate folder and consists in one or more jupyer notebooks. The notebooks are numbered in the order in which they should be completed.
+This repository contains the tutorials for the AI for business course. Each practical is contained in a separate folder and consists in one or more jupyer notebooks. The notebooks are numbered in the order in which they should be completed.
 
 To be able to run these notebooks, you will first need to clone the repository on your local machine.
 
