@@ -1,0 +1,9 @@
+# Tutorial 3 (transformers) -- verified with Python 3.13
+torch==2.11.0
+transformers==5.7.0
+datasets==5.0.0
+accelerate==1.13.0
+scikit-learn==1.8.0
+pandas==2.3.3
+numpy==2.3.5
+ipykernel==6.31.0

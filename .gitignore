@@ -1,2 +1,4 @@
 *.pickle
 *.feather
+# Course data is distributed via Brightspace, never committed (decided 2026-10-12)
+2026-2027/datasets/
