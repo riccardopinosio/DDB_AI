@@ -7,3 +7,6 @@ scikit-learn==1.8.0
 pandas==2.3.3
 numpy==2.3.5
 ipykernel==6.31.0
+# Tutorial 6 (topic modelling); then run: python -m spacy download en_core_web_sm
+spacy==3.8.16
+matplotlib==3.11.2
