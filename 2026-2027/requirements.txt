@@ -1,4 +1,4 @@
-# Tutorial 3 (transformers) -- verified with Python 3.13
+# Tutorial 4 (transformers) -- verified with Python 3.13
 torch==2.11.0
 transformers==5.7.0
 datasets==5.0.0
