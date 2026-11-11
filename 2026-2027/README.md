@@ -47,9 +47,3 @@ To be able to run these notebooks, you will first need to clone the repository o
 
 **The dataset is not in this repository.** Download `debt_collection_dataset_2026-27.zip` from the course page on Brightspace and save it in your working directory. 
 **Please do not commit the data or share it outside the course.**
-
-```bash
-pip install -r requirements.txt
-```
-
-When this is done, you should be able to run the jupyter notebooks in the newly created environment.
