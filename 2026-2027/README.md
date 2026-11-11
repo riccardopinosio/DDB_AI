@@ -2,7 +2,7 @@
 
 Dear students,
 
-This repository contains the tutorials for the AI for business course. Each practical is contained in a separate folder and consists of one or more jupyter notebooks. The notebooks are numbered in the order in which they should be completed.
+This repository contains the tutorials for the AI Methods for Business course. Each practical is contained in a separate folder and consists of one or more jupyter notebooks. The notebooks are numbered in the order in which they should be completed.
 
 ## The Business case
 
