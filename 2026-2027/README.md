@@ -45,7 +45,7 @@ All tutorials use the same dataset: the records of a debt collection agency, wit
 
 To be able to run these notebooks, you will first need to clone the repository on your local machine.
 
-**The dataset is not in this repository.** Download `debt_collection_dataset_2026-27.zip` from the course page on Brightspace and unzip it inside this folder (`2026-2027/`). This creates `2026-2027/datasets/debt_collection/` with the four CSV files and the schema PDF, which is where the notebooks expect them. Please do not commit the data or share it outside the course.
+**The dataset is not in this repository.** Download `debt_collection_dataset_2026-27.zip` from the course page on Brightspace and save it in working directory. Please do not commit the data or share it outside the course.
 
 You will then need to create a conda environment with the required dependencies. The dependencies are listed in the requirements.txt file in this folder. To install them in an existing conda environment, run the following command from a terminal after activating the environment:
 
