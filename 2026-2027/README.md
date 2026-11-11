@@ -17,7 +17,7 @@ but what happens next:
 Right now these decisions are made by experience and gut feel. Our goal is to replace
 gut feel with data-driven predictions. This tutorial lays the foundation:
 understand the data, clean it, engineer features, and derive the targets that all
-subsequent models will predict.
+models you learn in this module will predict.
 
 ### The dataset
 
@@ -45,9 +45,8 @@ All tutorials use the same dataset: the records of a debt collection agency, wit
 
 To be able to run these notebooks, you will first need to clone the repository on your local machine.
 
-**The dataset is not in this repository.** Download `debt_collection_dataset_2026-27.zip` from the course page on Brightspace and save it in working directory. Please do not commit the data or share it outside the course.
-
-You will then need to create a conda environment with the required dependencies. The dependencies are listed in the requirements.txt file in this folder. To install them in an existing conda environment, run the following command from a terminal after activating the environment:
+**The dataset is not in this repository.** Download `debt_collection_dataset_2026-27.zip` from the course page on Brightspace and save it in your working directory. 
+**Please do not commit the data or share it outside the course.**
 
 ```bash
 pip install -r requirements.txt
