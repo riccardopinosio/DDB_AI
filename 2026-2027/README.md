@@ -45,5 +45,5 @@ All tutorials use the same dataset: the records of a debt collection agency, wit
 
 To be able to run these notebooks, you will first need to clone the repository on your local machine.
 
-**The dataset is not in this repository.** Download `debt_collection_dataset_2026-27.zip` from the course page on Brightspace and save it in your working directory. 
+**The dataset is not in this repository.** Download `data.zip` from the course page on Brightspace and save it in your working directory. 
 **Please do not commit the data or share it outside the course.**
