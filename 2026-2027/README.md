@@ -29,7 +29,7 @@ between 2020 and mid-2024:
 | `debtor_profiles.csv` | ~10,000 | One row per debtor. Demographics. |
 | `accounts.csv` | ~14,000 | One row per debt account. Financial variables. |
 | `payment_transactions.csv` | ~90,000 | One row per payment event. |
-| `contact_history_enriched.csv` | ~111,000 | One row per contact attempt. Includes email and call text. |
+| `contact_history.csv` | ~111,000 | One row per contact attempt. Includes email and call text. |
 
 ### What we are predicting
 
